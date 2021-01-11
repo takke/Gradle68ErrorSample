@@ -1,4 +1,4 @@
-package com.example.gradleerrorsample
+package com.example.gradle68errorsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

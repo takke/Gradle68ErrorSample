@@ -1,4 +1,4 @@
-package com.example.gradleerrorsample
+package com.example.gradle68errorsample
 
 import org.junit.Test
 

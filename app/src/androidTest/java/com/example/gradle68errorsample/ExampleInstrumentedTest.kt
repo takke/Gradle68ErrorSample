@@ -1,4 +1,4 @@
-package com.example.gradleerrorsample
+package com.example.gradle68errorsample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.gradleerrorsample", appContext.packageName)
+        assertEquals("com.example.gradle68errorsample", appContext.packageName)
     }
 }
